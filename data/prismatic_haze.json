@@ -6,5 +6,23 @@
     "verifier": "CosmicGMD",
     "verification": "https://youtu.be/DvnVdC5xEy0",
     "percentToQualify": 60,
-    "records": []
+    "records": [
+        {
+            "user": "Xplode09",
+            "link": "https://www.youtube.com/watch?v=HktloPDad64",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "TurtleER",
+            "link": "https://www.youtube.com/watch?v=MDQdS4DS2PQ",
+            "percent": 100,
+            "hz": "144"
+        },
+       {
+            "user": "VoiceChatPing",
+            "link": "https://www.youtube.com/watch?v=MDQdS4DS2PQ",
+            "percent": 100,
+            "hz": "144"
+    ]
 }
