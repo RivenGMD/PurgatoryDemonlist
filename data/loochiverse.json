@@ -3,7 +3,7 @@
     "name": "Loochiverse",
     "author": "Nerhy",
     "creators": ["DTDom and more"],
-    "verifier": "Voice",
+    "verifier": "VoiceChatPing",
     "verification": "https://www.youtube.com/watch?v=0lpTAZj2rHI",
     "percentToQualify": 100,
     "records": []
