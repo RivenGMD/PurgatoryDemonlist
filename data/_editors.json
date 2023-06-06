@@ -1,7 +1,17 @@
 [
     {
         "role": "owner",
-        "name": "Your Name Here",
-        "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
-    }
+        "name": "Riven",
+        "link": "https://www.youtube.com/@rivenn_og"
+    },
+    {
+        "role": "Admin",
+        "name": "Cosmic",
+        "link": "https://www.youtube.com/@CosmicGmd1"
+    },
+    {
+        "role": "Helper",
+        "name": "Xplode",
+        "link": "https://www.youtube.com/@xplode09"
+    },
 ]
