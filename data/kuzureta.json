@@ -1,0 +1,22 @@
+{
+    "id": 71216292,
+    "name": "Kuzureta",
+    "author": "Teno",
+    "creators": ["Teno and more"],
+    "verifier": "VoiceChatPing",
+    "verification": "Link",
+    "percentToQualify": 45,
+    "records": [
+        {
+            "user": "Xplode09",
+            "link": "https://www.youtube.com/watch?v=o03yAVtuJeE",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "TurtleER",
+            "link": "https://www.youtube.com/watch?v=MDQdS4DS2PQ",
+            "percent": 100,
+            "hz": "360"
+        }
+}
