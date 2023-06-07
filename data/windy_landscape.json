@@ -1,0 +1,23 @@
+{
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "author": "WOOGI1411",
+    "creators": [],
+    "verifier": "CosmicGMD",
+    "verification": "https://youtu.be/arYXme5W5rg",
+    "percentToQualify": 45,
+    "records": [
+      {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/lhNSx5RuLwU",
+            "percent": 100,
+            "hz": 240
+      },
+      {
+            "user": "TurtleER",
+            "link": "https://youtu.be/qDzmFyYTxWc",
+            "percent": 100,
+            "hz": 144
+      }
+    ]
+}
