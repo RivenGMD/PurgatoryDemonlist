@@ -3,8 +3,8 @@
     "name": "Sink",
     "author": "Awedsy",
     "creators": ["Awedsy"],
-    "verifier": "VoiceChatPing",
+    "verifier": "voicechatping",
     "verification": "https://www.youtube.com/watch?v=GJ2BIhViT7w",
-    "percentToQualify": 100,
+    "percentToQualify": 45,
     "records": []
 }
