@@ -10,10 +10,11 @@
     "verification": "https://youtu.be/Nb90xNxRvwI",
     "percentToQualify": 46,
     "records": [
-      {
+        {
             "user": "EvilEmperium",
             "link": "https://youtu.be/lQ66WyYlShU",
             "percent": 100,
             "hz": 240
         },
+        ]
 }
