@@ -1,0 +1,17 @@
+{
+    "id": 88412645,
+    "name": "Condemnation",
+    "author": "Xplode09",
+    "creators": ["Tusiima and Xplode09"],
+    "verifier": "Xplode09",
+    "verification": "https://www.youtube.com/watch?v=htAY9rOOi6Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "TurtleER",
+            "link": "https://youtu.be/wmkd2FuVwtk",
+            "percent": 100,
+            "hz": "360"
+        }
+        ]
+}
