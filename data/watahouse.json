@@ -1,0 +1,29 @@
+{
+    "id": 83831649,
+    "name": "Watahouse",
+    "author": "TimothyJH",
+    "creators": [],
+    "verifier": "CosmicGMD",
+    "verification": "https://youtu.be/9wl005mv3qE",
+    "percentToQualify": 100,
+    "records": [
+      {
+            "user": "Xplode09",
+            "link": "https://youtu.be/SscnitDHJaI?t=22",
+            "percent": 100,
+            "hz": 360
+      },
+      {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/orZfcHAUWk0?t=88",
+            "percent": 100,
+            "hz": 360
+      },
+      {
+            "user": "TurtleER",
+            "link": "https://youtu.be/bQG9YzZVojI",
+            "percent": 100,
+            "hz": 360
+      }
+    ]
+}
