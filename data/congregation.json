@@ -5,6 +5,6 @@
     "creators": ["Presta"],
     "verifier": "voicechatping",
     "verification": "https://www.youtube.com/watch?v=ZW3QUWJBGok&t=125s",
-    "percentToQualify": 51,
+    "percentToQualify": 42,
     "records": []
 }
