@@ -1,0 +1,19 @@
+{
+    "id": 89979850,
+    "name": "PURGATORY",
+    "author": "rivenog",
+    "creators": [
+      "riven og",
+      "F1regek"
+    ],
+    "verifier": "riven og",
+    "verification": "https://youtu.be/Nb90xNxRvwI",
+    "percentToQualify": 46,
+    "records": [
+      {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/lQ66WyYlShU",
+            "percent": 100,
+            "hz": 240
+        },
+}
