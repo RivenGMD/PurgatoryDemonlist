@@ -6,5 +6,12 @@
     "verifier": "riven og",
     "verification": "https://youtu.be/HbWPY5zLQJg",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+        {
+            "user": "Xplode09",
+            "link": "https://www.youtube.com/watch?v=doOBkZtzdh8",
+            "percent": 100,
+            "hz": "60"
+        }
+        ]
 }
