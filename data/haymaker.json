@@ -6,5 +6,12 @@
     "verifier": "TurtleER",
     "verification": "https://youtu.be/5pJoJDRXLwo",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/zTjofi2bQRQ",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
