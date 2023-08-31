@@ -6,5 +6,10 @@
     "verifier": "voicechatping",
     "verification": "https://www.youtube.com/watch?v=GJ2BIhViT7w",
     "percentToQualify": 45,
-    "records": []
+    "records": [        {
+            "user": "TurtleER",
+            "link": "https://youtu.be/t8OQnMezypc?si=OkfJ_kQuDEz2BIp1",
+            "percent": 100,
+            "hz": "360"
+        }]
 }
