@@ -6,5 +6,10 @@
     "verifier": "Llqne",
     "verification": "https://www.youtube.com/watch?v=dQHeFh1hea4",
     "percentToQualify": 53,
-    "records": []
+    "records": [        {
+            "user": "CosmicGMD",
+            "link": "https://youtu.be/4slYOjzAFZw",
+            "percent": 100,
+            "hz": "360"
+        }]
 }
