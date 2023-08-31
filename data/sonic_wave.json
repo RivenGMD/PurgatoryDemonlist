@@ -6,10 +6,12 @@
     "verifier": "TurtleER",
     "verification": "https://youtu.be/17QG86VC0CI",
     "percentToQualify": 65,
-    "records": [{
+    "records": [
+{
             "user": "lilgig",
             "link": "https://www.youtube.com/watch?v=9Ju9pNlMd5Y",
             "percent": 100,
             "hz": "360"
-        }]
+        }
+]
 }
